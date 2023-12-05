@@ -1,1 +1,2 @@
 user info in user branch
+the second line added from remote
